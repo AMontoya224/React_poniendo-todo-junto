@@ -1,0 +1,22 @@
+h1{
+    color: darkcyan;
+}
+
+b{
+    font-weight: 400;
+}
+
+button{
+    color: white;
+    background-color: rgb(35, 35, 35);
+    margin-bottom: 15px;
+    border: none;
+    padding: 15px 0;
+    width: 20%;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+button:hover{
+	background-color:rgb(15, 15, 15);
+}
